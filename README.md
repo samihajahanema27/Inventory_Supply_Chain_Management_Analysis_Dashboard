@@ -78,7 +78,7 @@ These measures automatically update all visuals based on user-selected filters.
 
 ##  Dashboard Preview
 
-```markdown
+```
 ![Dashboard Preview](Inventory & Supply Chain Management Analysis Dashboard.png)
 ```
 
