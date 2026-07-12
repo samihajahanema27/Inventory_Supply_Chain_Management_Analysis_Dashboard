@@ -76,12 +76,6 @@ These measures automatically update all visuals based on user-selected filters.
 
 ---
 
-##  Dashboard Preview
-
-![Dashboard Preview](Inventory & Supply Chain Management Analysis Dashboard.png)
-
----
-
 ##  What I Learned
 
 Through this project, I strengthened my understanding of:
